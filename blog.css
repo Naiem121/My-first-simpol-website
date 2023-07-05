@@ -1,7 +1,12 @@
 .new{
-    
-    border-radius: 10px;
+    border-radius: 20px;
+    border-top:10px solid blue;
     background-color: orchid;
     margin: 10px;
     padding: 10px;
+}
+img{
+    border: 2px solid green;
+width: 700px;
+height: 300px;
 }
